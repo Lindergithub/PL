@@ -13,7 +13,9 @@
 > + [隨堂練習](https://github.com/Lindergithub/PL/blob/main/111-1%20Pl%20W1%20practice.ipynb)
 > + [Stack Overflow(語法查詢)](https://stackoverflow.com/)
 > + [GeekforGeek(開發者論壇)](https://www.geeksforgeeks.org/python-programming-language/)
+
 > ## week3
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
+> + [HW](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW.ipynb)
 ## 作業連結區
 ## 專題連結區
