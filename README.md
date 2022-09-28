@@ -4,7 +4,8 @@
 > + 姓名：林鈺茹
 > + 系級：科技系114年級
 ## 課程筆記區
-[markdown語法](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#blockquote)
++ [markdown語法](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#blockquote)
++ [Pl repo](https://docs.google.com/spreadsheets/d/1hRIOovstwJst0SXgM_bogjYsrHLVZv4uVOkmYrgbql0/edit#gid=948403574)
 > ## week1 
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
