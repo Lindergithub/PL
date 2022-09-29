@@ -21,6 +21,6 @@
 
 > ## week4
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
-> + [隨堂練習](https://github.com/Lindergithub/PL/blob/main/w4%20data.csv)
+> + [隨堂練習](https://github.com/Lindergithub/PL/blob/main/w4%20prctice.ipynb)
 ## 作業連結區
 ## 專題連結區
