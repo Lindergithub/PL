@@ -17,10 +17,12 @@
 
 > ## week3
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
-> + [HW](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW.ipynb)
+> + [HW1](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW.ipynb)
 
 > ## week4
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > + [隨堂練習](https://github.com/Lindergithub/PL/blob/main/w4%20prctice.ipynb)
 ## 作業連結區
++ [HW1](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW.ipynb)
+
 ## 專題連結區
