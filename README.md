@@ -22,6 +22,9 @@
 > ## week4
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > + [隨堂練習](https://github.com/Lindergithub/PL/blob/main/w4%20prctice.ipynb)
+
+> ## week5
+> + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ## 作業連結區
 + [HW1](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW.ipynb)
 
