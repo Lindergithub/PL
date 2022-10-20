@@ -25,7 +25,7 @@
 
 > ## week5
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
-> + [HW2](https://github.com/Lindergithub/PL/blob/main/111-1%20W5%20HW2.ipynb)
+> + [HW2](https://github.com/Lindergithub/PL/tree/main/pl_hw2)
 
 > ## week6
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -34,6 +34,6 @@
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ## 作業連結區
 + [HW1](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW1.ipynb)
-+ [HW2](https://github.com/Lindergithub/PL/blob/main/111-1%20W5%20HW2.ipynb)
++ [HW2](https://github.com/Lindergithub/PL/tree/main/pl_hw2)
 + [難產中的hw2](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW2.ipynb)
 ## 專題連結區
