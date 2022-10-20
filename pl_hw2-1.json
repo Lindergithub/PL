@@ -1,0 +1,70 @@
+{
+  "game": "新生盃",
+  "date": "2021/12/06",
+  "place": "ntnu",
+  "all": "7人",
+  "members": [
+    {
+      "name": "A",
+      "age": 19,
+      "play": "libero",
+      "dive": 6,
+      "ace": 0,
+      "scorer": 1,
+      "Setter dump": 1
+    },
+    {
+      "name": "B",
+      "age": 19,
+      "play": "setter",
+      "ace": 5,
+      "spike point": 2,
+      "Setter dump": 4
+    },
+    {
+      "name": "C",
+      "age": 19,
+      "play": "spiker",
+      "ace": 4,
+      "block point": 4,
+      "spike point": 2,
+      "tip point": 0
+    },
+    {
+      "name": "D",
+      "age": 19,
+      "play": "spiker",
+      "ace": 2,
+      "block point": 4,
+      "spike point": 3,
+      "tip point": 3
+    },
+    {
+      "name": "E",
+      "age": 19,
+      "play": "block",
+      "ace": 4,
+      "block point": 4,
+      "spike point": 3,
+      "tip point": 3
+    },
+    {
+      "name": "F",
+      "age": 19,
+      "play": "block",
+      "ace": 2,
+      "block point": 3,
+      "spike point": 2,
+      "tip point": 0
+    },
+    {
+      "name": "G",
+      "age": 19,
+      "play": "spiker",
+      "ace": 1,
+      "block point": 0,
+      "spike point": 0,
+      "tip point": 0
+    }
+  ]
+}
