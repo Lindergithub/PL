@@ -35,5 +35,5 @@
 ## 作業連結區
 + [HW1](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW1.ipynb)
 + [HW2](https://github.com/Lindergithub/PL/tree/main/pl_hw2)
-+ [難產中的hw2](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW2.ipynb)
++ [難產中的hw2](https://github.com/Lindergithub/PL/tree/main/%E9%9B%A3%E7%94%A2%E7%9A%84%E7%90%83%E8%A1%A3)
 ## 專題連結區
