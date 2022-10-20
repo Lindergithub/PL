@@ -33,5 +33,6 @@
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ## 作業連結區
 + [HW1](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW1.ipynb)
-+ [HW2 難產中](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW2.ipynb)
++ [hw2](https://github.com/Lindergithub/PL/blob/main/111-1%20W5%20HW2.ipynb)
++ [難產中的hw2](https://github.com/Lindergithub/PL/blob/main/111-1%20W3%20HW2.ipynb)
 ## 專題連結區
