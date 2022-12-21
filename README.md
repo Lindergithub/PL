@@ -46,3 +46,6 @@ week5
 + [hw2try](https://github.com/Lindergithub/PL/tree/main/%E9%9B%A3%E7%94%A2%E7%9A%84%E7%90%83%E8%A1%A3)
 + [hw3](https://github.com/Lindergithub/PL/blob/main/111-1%20W7%20HW3.ipynb)
 ## 專題連結區
++ [ppt](https://docs.google.com/presentation/d/1ebvmpyLhBC7aWcAzxBVXxNRI3CjWtfYg8HFUM4bXvHA/edit?usp=sharing)
++ [figama]()
++ [vedio]()
