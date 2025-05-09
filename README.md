@@ -48,5 +48,5 @@ week5
 + [hw4剛爬完，還沒探勘](https://github.com/Lindergithub/PL/blob/main/HW4.ipynb)
 ## 專題連結區
 + [ppt](https://docs.google.com/presentation/d/1ebvmpyLhBC7aWcAzxBVXxNRI3CjWtfYg8HFUM4bXvHA/edit?usp=sharing)
-+ [figama]()
-+ [vedio]()
++ [Demo](https://www.figma.com/proto/R7k81IiEVy9jydF4qXruGZ/%E7%A8%8B%E8%A8%AD?node-id=25-4&starting-point-node-id=25%3A4)
++ [vedio](https://youtu.be/I9vfPtHSfY8)
